@@ -10,9 +10,9 @@
 .clearfix::after,
 .header::after,
 .grid::after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 html {
 	font-size: 100%;

@@ -9,4 +9,3 @@ $(document).ready(function(){
 		$(target).toggleClass("nav__list--open");
 	});
 });
-
