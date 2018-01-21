@@ -225,7 +225,7 @@ body {
 	margin-bottom: 3px;
 }
 .btn-nav__line:last-child {
-	margin-bottom: 0;
+	margin-bottom: 0;display: block;
 }
 .nav__btn {
 	text-align: right;
