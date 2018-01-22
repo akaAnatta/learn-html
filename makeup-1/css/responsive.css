@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 600px) {
 	html {
-		font-size: 82%;
+		font-size: 80%;
 	}
 	.header__logo,
 	.header__contact {
